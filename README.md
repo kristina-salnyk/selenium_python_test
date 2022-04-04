@@ -1,6 +1,6 @@
 ## Selenium Python Test
 
-Designed to test sending emails from the mail client Gmail.
+Designed to test sending emails from the Gmail mail client.
 
 ### Setup
 
