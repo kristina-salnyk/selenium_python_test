@@ -17,6 +17,8 @@ Before using it you need to install some modules.
     ```shell
     pip install -r requirements.txt
     ```
+    
+3. Add a chromedriver.exe file to the project directory.
 
 ### Architecture
 
