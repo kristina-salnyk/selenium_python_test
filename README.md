@@ -31,6 +31,3 @@ Before using it you need to install some modules.
         string_methods.py               #Includes the necessary methods for working with strings
 
         webdriver_actions.py            #Сontains webdriver methods for interacting with web-page elements.
-
-        
-# selenium_python_test
